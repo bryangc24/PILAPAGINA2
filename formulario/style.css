@@ -110,6 +110,21 @@ body {
 
 .gradient-text{
     color: #fff;
+    text-decoration: none;
+}
+.gradient-button{
+    width: 60%;
+    margin: auto;
+    border: solid thin white;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: white;
+    font-weight: 600;
+    margin-top: 3rem;
+    font-size: .8rem;
+    cursor: pointer;
+    color: #222;
+    text-decoration: none;
 }
 
 .formulario input {
@@ -127,6 +142,18 @@ body {
     color: white;
 }
 
+.formulario a {
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    border: none;
+    border-bottom: white thin solid;
+    text-align: center;
+    outline: none;
+    padding: .7rem 0;
+    font-size: .9rem;
+}
 .formulario2 input {
     width: 70%;
     display: block;
