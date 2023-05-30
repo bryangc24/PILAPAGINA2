@@ -49,7 +49,7 @@ font-weight: 800;
 
 .menu .navbar ul li a {
     font-size: 18px;
-    padding: 20px;
+    padding: 15px;
     color: #FFFDFC;
     display: block;
     font-weight: 600;
@@ -225,7 +225,8 @@ h2{
 
 .circle-txt p {
     color: #FFFDFC;
-    margin-top: 25px;
+    margin-top: 80px;
+    font-size: 30px;
 }
 
 .infor-2 {
